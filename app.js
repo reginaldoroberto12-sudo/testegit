@@ -4,4 +4,4 @@ console.log('Olá, Mundo! Este é o meu primeiro programa em Node.js. Estou anim
 // const app = express();
     // const port = 3000;  
     
-    
+    const variavel = document.getElementById("root").innerHTML= "Meu primeiro codigo em JavaScript. Ja sou programador!";
